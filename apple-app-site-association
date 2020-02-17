@@ -3,16 +3,12 @@
       "apps": [],
       "details": [
            {
-             "appID": "ABCDE12345.com.example.app",
-             "paths": [ "/buy/*", "NOT /help/website/*", "/help/*" ]
-           }
-           {
-             "appID": "ABCDE12345.com.example.app2",
-             "paths": [ "/buy/*", "NOT /help/website/*", "/help/*" ]
+             "appID": "3Q26PSWQ2V.com.easy.testaasa",
+             "paths": [ "NOT /help/website/*", "/help/*" ]
            }
        ]
    },
    "webcredentials": {
-      "apps": [ "ABCDE12345.com.example.app" ]
+      "apps": [ "3Q26PSWQ2V.com.easy.testaasa" ]
    }
 }
